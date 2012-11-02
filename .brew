@@ -44,5 +44,9 @@ brew install rhino
 brew install tree
 brew install webkit2png
 
+# install git tools
+brew install git-flow
+brew install git bash-completion
+
 # Remove outdated versions from the cellar
 brew cleanup
